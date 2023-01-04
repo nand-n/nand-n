@@ -1,12 +1,5 @@
 - 👋 Hi, I’m Nahom Debele
-- 👀 I’m a dedicated software developer with indestry lelvel sckil sets .....I like to develope Fullstack mobile and web apps ....
-- 🌱 I’m currently working on  website that uses machine learning to gather information about targeted customers...
-- 💞️ I’m looking to collaborate with node developer who can create backend app for my client app who have machine learning expriance ...
-- 📫 How to reach me ...
-You can reach me using my personal portfolio website www.nand-n.com
-Or my LinkedIn account nand-n
+- 👀 I’m a pacinate Fullstack (MERN stack) and Flutter Developer .
+- 💞️ I’m looking to collaborate with nodejs and Flutter developer.
+- 📫 How to reach me ? You can reach me using my personal portfolio website https://nand-n.web.app Or my LinkedIn account https://linkedin.com/in/nahom-debele-069926235
 
-<!---
-nand-n/nand-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
