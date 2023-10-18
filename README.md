@@ -13,7 +13,7 @@
 
 📫 Feel free to contact me if you'd like to discuss a project, have questions, or just want to connect. I'm always up for a good coding conversation!
 
-🚴‍♂️ When I'm not at the keyboard, you'll probably find me cycling through the countryside or enjoying a cup of coffee while diving into a good book.
+🚴‍♂️ When I'm not at the keyboard, you'll probably find me enjoying a cup of coffee while diving into a good book or medium article.
 
 🌟 Thanks for stopping by! Explore my repositories and let's make some digital magic together.
 
