@@ -76,19 +76,6 @@ Direct:
 - [Instagram](https://www.instagram.com/create.dd/)
 - [createdd.com](https://www.createdd.com/)
 
-Art-related:
-- [Medium/the-art-of-art](https://medium.com/the-art-of-art)
-- [Instagram/art_and_ai](https://www.instagram.com/art_and_ai/)
-- [Rarible](https://app.rarible.com/createdd/collectibles)
-- [Open Sea](https://opensea.io/accounts/createdd?ref=0xc36b01231a8f857b8751431c8011b09130ef92ec)
-- [Known Origin](https://knownorigin.io/profile/0xC36b01231a8F857B8751431c8011b09130ef92eC)
-- [Devian Art](https://www.deviantart.com/createdd1010/)
-
-
-If I helped you with some of my online content feel free to show support:
-<a href="https://www.buymeacoffee.com/createdd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-or with crypto https://etherdonation.com/d?to=0xC36b01231a8F857B8751431c8011b09130ef92eC
 
 
 
