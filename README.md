@@ -66,15 +66,12 @@ I worked with
 
 ## Connect on
 
-- [Allmylinks](https://allmylinks.com/createdd)
 
 Direct:
-- [LinkedIn](https://www.linkedin.com/in/createdd)
-- [Github](https://github.com/Createdd)
-- [Medium](https://medium.com/@createdd)
-- [Twitter](https://twitter.com/_createdd)
-- [Instagram](https://www.instagram.com/create.dd/)
-- [createdd.com](https://www.createdd.com/)
+- [LinkedIn](https://www.linkedin.com/in/nahom-debele)
+- [Github](https://github.com/nand-n)
+- [Medium](https://medium.com/@nahomdebele002)
+- [nahom](https://www.nahom.onrender.com/)
 
 
 
