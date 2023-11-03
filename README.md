@@ -2,16 +2,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Daniel....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nahom....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="left">
-Daniel Deutsch is an entrepreneur, software developer and business law graduate. He has worked at various IT companies, tax advisory, management consulting and at the Austrian court. 
+Nahom Debele is software developer and compluter science graduate. He has worked at various IT companies,SaaS , Erp , Crm management application. 
   <br>
     <br>
-His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
+His knowledge and interests currently revolve around programming SaaS applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
   <br>
     <br>
 Don't hesitate to get in touch if you have ideas, projects, or problems.
@@ -27,7 +27,14 @@ I focus on Machine Learning aspects in Data Science.
 I worked with
 - Python (Pandas, Matplotlib, Sklearn, PyTorch, Tensorflow)
 - JavaScript(Typescript, ReactJS, Redux, NodeJS)
-- C# in .NET
+- Node.js
+- React.js
+- Next.js
+- Nest.js
+- Express.js
+- Tailwind
+- Flutter
+  
 </p>
 <hr>
 
@@ -38,7 +45,7 @@ I worked with
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Createdd&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/nand0n" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Createdd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
