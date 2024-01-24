@@ -40,24 +40,21 @@ I worked with
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/nand-n/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Createdd&theme=react&border=61dafb&hide_border=true" alt="nand-n" />
-    </a>
-    <a href="https://github.com/nand-n" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Createdd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/nand-n/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Createdd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Createdd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nand-n&label=Profile%20views&color=0e75b6&style=flat" alt="nand-n" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand-n" alt="nand-n" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-n&show_icons=true&locale=en&layout=compact" alt="nand-n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-n&show_icons=true&locale=en" alt="nand-n" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-n&" alt="nand-n" /></p>
 
 <hr>
 
