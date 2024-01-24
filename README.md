@@ -40,21 +40,24 @@ I worked with
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<!-- Use GitHub's dark theme by adding ?theme=dark to the URLs -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nand-n&label=Profile%20views&color=0e75b6&style=flat" alt="nand-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand-n" alt="nand-n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand-n&theme=dark" alt="nand-n" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&labelColor=1b1f23&logoColor=white&color=1b1f23" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- Add your social media icons here with the appropriate dark theme styles -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-n&show_icons=true&locale=en&layout=compact" alt="nand-n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nand-n&show_icons=true&locale=en&layout=compact&theme=dark" alt="nand-n" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-n&show_icons=true&locale=en" alt="nand-n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nand-n&show_icons=true&locale=en&theme=dark" alt="nand-n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-n&" alt="nand-n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nand-n&theme=dark" alt="nand-n" /></p>
 
 <hr>
 
