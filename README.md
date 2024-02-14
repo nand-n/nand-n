@@ -26,9 +26,7 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 <br>
 <!-- Use GitHub's dark theme by adding ?theme=dark to the URLs -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nand-n&label=Profile%20views&color=0e75b6&style=flat" alt="nand-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand-n&theme=dark" alt="nand-n" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&labelColor=1b1f23&logoColor=white&color=1b1f23" alt="" /></a> </p>
 
