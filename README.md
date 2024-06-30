@@ -22,18 +22,6 @@ My core competencies include front-end technologies like React, Next.js, and Flu
 I am passionate about creating user-friendly interfaces and solving complex technical problems. I have contributed to multiple projects, including SaaS products, comprehensive project management applications, service desk modules, and productivity enhancement platforms.
 </p>
 
-## Get in Touch
-
-<p align="left">
-Don't hesitate to get in touch if you have ideas, projects, or problems you need help with.
-</p>
-
-- 📧 **Email:** [nahomdebele002@gmail.com](mailto:nahomdebele002@gmail.com)
-- 💼 **LinkedIn:** [Nahom Debele](https://linkedin.com/in/nahom-debele)
-- 👨‍💻 **GitHub:** [nand-n](https://github.com/nand-n)
-- 🌐 **Portfolio:** [nahom.onrender.com](https://nahom.onrender.com/)
-
----
 
 Feel free to explore my repositories and connect with me!
 
@@ -67,15 +55,19 @@ Feel free to explore my repositories and connect with me!
 
 
 
-## Connect on
+## Get in Touch
 
 
-Direct:
-- [LinkedIn](https://www.linkedin.com/in/nahom-debele)
-- [Github](https://github.com/nand-n)
-- [Medium](https://medium.com/@nahomdebele002)
-- [nahom](https://www.nahom.onrender.com/)
+<p align="left">
+Don't hesitate to get in touch if you have ideas, projects, or problems you need help with.
+</p>
 
+- 📧 **Email:** [nahomdebele002@gmail.com](mailto:nahomdebele002@gmail.com)
+- 💼 **LinkedIn:** [Nahom Debele](https://linkedin.com/in/nahom-debele)
+- 👨‍💻 **GitHub:** [nand-n](https://github.com/nand-n)
+- 🌐 **Portfolio:** [nahom.onrender.com](https://nahom.onrender.com/)
+
+---
 
 
 
