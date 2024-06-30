@@ -11,7 +11,7 @@
 ## About Me
 
 <p align="left">
-I am Nahom Debele, a passionate full-stack web developer with over a year of experience in building scalable web applications using JavaScript and golang. I have worked in various complex projects including SaaS, ERP, and CRM , Syppy chain and project management applications.
+I am Nahom Debele, a passionate full-stack web developer with over a 2 year + of experience in building scalable web applications using JavaScript and golang. I have worked in various complex projects including SaaS, ERP, and CRM , Syppy chain and project management applications.
 </p>
 
 <p align="left">
