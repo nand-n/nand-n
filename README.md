@@ -11,11 +11,11 @@
 ## About Me
 
 <p align="left">
-I am Nahom Debele, a passionate full-stack web developer with over a year of experience in building scalable web applications using JavaScript and Dart frameworks and libraries. I have worked with various IT companies, gaining extensive knowledge in SaaS, ERP, and CRM management applications.
+I am Nahom Debele, a passionate full-stack web developer with over a year of experience in building scalable web applications using JavaScript and golang. I have worked with various IT companies, gaining extensive knowledge in SaaS, ERP, and CRM management applications.
 </p>
 
 <p align="left">
-My core competencies include front-end technologies like React, Next.js, and Flutter, as well as back-end technologies such as Express.js and Nest.js. I am proficient in database design and optimization with PostgreSQL, MySQL, and MongoDB. Additionally, I have experience with DevOps tools like Docker, Nginx, and Jenkins.
+My core competencies include front-end technologies like React, Next.js, and Flutter, as well as back-end technologies such as Express.js , Nest.js and Go lang. I am proficient in database design and optimization with PostgreSQL, MySQL, and MongoDB. Additionally, I have experience with DevOps tools like Docker, Nginx, and Jenkins.
 </p>
 
 <p align="left">
