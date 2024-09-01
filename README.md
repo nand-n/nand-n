@@ -60,6 +60,7 @@ Feel free to explore my repositories and connect with me!
 
 <p align="left">
 Don't hesitate to get in touch if you have ideas, projects, or problems you need help with.
+  Feel free to reach out.
 </p>
 
 - 📧 **Email:** [nahomdebele002@gmail.com](mailto:nahomdebele002@gmail.com)
