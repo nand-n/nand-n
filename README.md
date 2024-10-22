@@ -13,6 +13,8 @@
 * 🌍 I am Nahom Debele, a full-stack software developer, based in Addis Ababa.
 
 * ✉️  I have worked in various complex projects including SaaS, ERP, CRM , Game development ....
+
+* ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
   
 ## 🧠 Core Skills:
 
@@ -21,7 +23,7 @@
 - **Databases**: 🐘 PostgreSQL, 🐬 MySQL, 🍃 MongoDB
 - **DevOps**: 🐳 Docker, ⚙️ Nginx, 🧩 Jenkins
 
-* ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
+
 
 * 🤝 Feel free to explore my repositories and connect with me!
 
@@ -146,9 +148,6 @@
  </tr>
 </table>
 <br><br>
-  <a href="https://github.com/OracleBrain">
-    <img src="contributions.svg" />
-  </a>
 
 </div>
 <hr>
