@@ -12,7 +12,7 @@
 
 * 🌍 I am Nahom Debele, a full-stack software developer, based in Addis Ababa.
 
-* ✉️  I have worked in various complex projects including SaaS, ERP, CRM , Game development ....
+* 💼 I have worked in various complex projects including SaaS, ERP, CRM , Game development ....
 
 * ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
   
