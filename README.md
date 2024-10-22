@@ -14,10 +14,12 @@
 
 * ✉️  I have worked in various complex projects including SaaS, ERP, CRM , Game development ....
   
-* 🧠 My core skills include front-end technologies like React, Next.js, and Flutter.
-* 🧠 Back-end technologies : Express.js , Nest.js and Go lang. 
-* 🧠 Proficient in database design and optimization with PostgreSQL, MySQL, and MongoDB. Additionally, 
-* 🧠 I have experience with DevOps tools like Docker, Nginx, and Jenkins.
+## 🧠 Core Skills:
+
+- **Front-end**: ⚛️ React, ⏭️ Next.js, 🐦 Flutter
+- **Back-end**: 🌐 Express.js, 🛡️ Nest.js, 🐹 Go
+- **Databases**: 🐘 PostgreSQL, 🐬 MySQL, 🍃 MongoDB
+- **DevOps**: 🐳 Docker, ⚙️ Nginx, 🧩 Jenkins
 
 * ⚡ I am into creating user-friendly interfaces and solving complex technical problems.
 
