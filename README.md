@@ -156,8 +156,6 @@
 <br>
 <!-- Use GitHub's dark theme by adding ?theme=dark to the URLs -->
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&labelColor=1b1f23&logoColor=white&color=1b1f23" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
